@@ -20,37 +20,7 @@
 - **Kết quả**:
   - Kết quả bài toán `1` :
 
-
-backtracking from: [0, 2]
-backtracking from: [0, 3, 1]
-backtracking from: [0, 3]
-backtracking from: [0]
-backtracking from: [1, 3, 0, 2]
-backtracking from: [1, 3, 0]
-backtracking from: [1, 3]
-backtracking from: [1]
-backtracking from: [2, 0, 3, 1]
-backtracking from: [2, 0, 3]
-backtracking from: [2, 0]
-backtracking from: [2]
-backtracking from: [3, 0, 2]
-backtracking from: [3, 0]
-backtracking from: [3, 1]
-backtracking from: [3]
-[['-' '-' '-' '-']
- ['-' '-' '-' '-']
- ['-' '-' '-' '-']
- ['-' '-' '-' '-']]
-backtracking from: [0, 2]
-backtracking from: [0, 3, 1]
-backtracking from: [0, 3]
-backtracking from: [0]
-backtracking from: [1, 3, 0, 2]
-...
-[['-' '-' 'Q' '-']
- ['Q' '-' '-' '-']
- ['-' '-' '-' 'Q']
- ['-' 'Q' '-' '-']]
+![alt text](image-1.png)
 
 ---
 
@@ -66,38 +36,8 @@ backtracking from: [1, 3, 0, 2]
 
 - **Kết quả **:
   - Kết quả bài toán `2` :
-  - Ví dụ lời giải:
 
-
-Solution: [0, 4, 7, 5, 2, 6, 1, 3]
-[['Q' '-' '-' '-' '-' '-' '-' '-']
- ['-' '-' '-' '-' 'Q' '-' '-' '-']
- ['-' '-' '-' '-' '-' '-' '-' 'Q']
- ['-' '-' '-' '-' '-' 'Q' '-' '-']
- ['-' '-' 'Q' '-' '-' '-' '-' '-']
- ['-' '-' '-' '-' '-' '-' 'Q' '-']
- ['-' 'Q' '-' '-' '-' '-' '-' '-']
- ['-' '-' '-' 'Q' '-' '-' '-' '-']]
-
-Solution: [0, 5, 7, 2, 6, 3, 1, 4]
-[['Q' '-' '-' '-' '-' '-' '-' '-']
- ['-' '-' '-' '-' '-' 'Q' '-' '-']
- ['-' '-' '-' '-' '-' '-' '-' 'Q']
- ['-' '-' 'Q' '-' '-' '-' '-' '-']
- ['-' '-' '-' '-' '-' '-' 'Q' '-']
- ['-' '-' '-' 'Q' '-' '-' '-' '-']
- ['-' 'Q' '-' '-' '-' '-' '-' '-']
- ['-' '-' '-' '-' 'Q' '-' '-' '-']]
-
-Solution: [0, 6, 3, 5, 7, 1, 4, 2]
-[['Q' '-' '-' '-' '-' '-' '-' '-']
- ['-' '-' '-' '-' '-' '-' 'Q' '-']
- ['-' '-' '-' 'Q' '-' '-' '-' '-']
-...
- ['-' '-' '-' '-' '-' '-' 'Q' '-']
- ['-' '-' '-' '-' 'Q' '-' '-' '-']]
-
- Tổng số lời giải tìm được: 92
+![alt text](image.png)
 
 
 ---
