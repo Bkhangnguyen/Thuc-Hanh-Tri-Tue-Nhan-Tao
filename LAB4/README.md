@@ -10,10 +10,10 @@
 
 ### Bài 2 – GA có tham số linh hoạt
 - Mở rộng từ Bài 1, cho phép điều chỉnh các tham số:
-  - `population_size` (kích thước quần thể)
-  - `generations` (số thế hệ)
-  - `crossover_rate` (tỷ lệ lai ghép)
-  - `mutation_rate` (tỷ lệ đột biến)
+  - population_size : (kích thước quần thể)
+  - generations : (số thế hệ)
+  - crossover_rate : (tỷ lệ lai ghép)
+  - mutation_rate : (tỷ lệ đột biến)
 
 
 
@@ -25,9 +25,9 @@
 
 ### Bài 4 – So sánh phương pháp chọn lọc
 - So sánh 3 chiến lược chọn cá thể cha mẹ trong GA:
-  - **Roulette Wheel** (vòng quay xác suất)
-  - **Tournament** (đấu giải mini)
-  - **Random Selection** (chọn ngẫu nhiên)
+  - Roulette Wheel (vòng quay xác suất)
+  - Tournament (đấu giải mini)
+  - Random Selection (chọn ngẫu nhiên)
 - Hiển thị sự khác biệt trong kết quả và tốc độ hội tụ.
 
 
